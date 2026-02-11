@@ -27,6 +27,16 @@ In other words, you get exactly the same quality that YouTube gives on the serve
 
 
 
+💻 Installation (Manual)
+**Basic skills are required**  
+Running from source requires minimal experience with:
+- Git (clone repository)
+- Python (run scripts)
+- pip (install dependencies)
+
+<details>
+<summary>▶ Click to see the process</summary>
+(For beginners, we recommend downloading the ready-made portable version .exe 💾)
 
 
 
