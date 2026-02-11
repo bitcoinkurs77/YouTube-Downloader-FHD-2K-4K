@@ -24,10 +24,14 @@ In other words, you get exactly the same quality that YouTube gives on the serve
 ![Main Window](YT-demo.gif)
 <!-- или если GIF: -->
 
+## YT-Downloader Quick Start -  exe (Windows/Mac Silicon)
+
+
+
 ✨Pre-built versions are for those who don't want to deal with manual installation.
 Just download and run - no dependencies or commands required.
 
-[![YDclickd](YDclickd.gif)](https://example.com)
+[![YDclickd](YDclickd.gif)](https://sdcourse.tb.ru/youtubedownloader)
 
 
 
