@@ -38,6 +38,7 @@ Running from source requires minimal experience with:
 <details>
 <summary>▶ Click to see the process</summary>
 Installation
+1. Set up Your Platform
 - Python (3.12 recommended)
 - pip
 - git
@@ -47,8 +48,18 @@ Installation
 python -m pip install --user -U yt-dlp
 ```
 
+2. Download this repository:
+   - Click the green button **"Code"** → **"Download ZIP"**
+   - Extract the archive to a convenient folder
 
- python -m pip install --user -U yt-dlp
+3. Run the program:
+   - Open the extracted folder
+   - Double-click on the file **`yt_downloader.py`**  
+     (if .py files are associated with Python, the program window will open immediately)
+
+   **Or via terminal / command line** (more reliable):
+   ```bash
+   cd path\to\folder\yt_downloader.py
 
 ## ⚠️ Disclaimer / Liability Disclaimer
 
