@@ -24,6 +24,10 @@ In other words, you get exactly the same quality that YouTube gives on the serve
 ![Main Window](YT-demo.gif)
 <!-- или если GIF: -->
 
+✨Pre-built versions are for those who don't want to deal with manual installation.
+Just download and run - no dependencies or commands required.
+
+[![YDclickd](YDclickd.gif)](https://example.com)
 
 
 
@@ -66,8 +70,10 @@ python -m pip install --user -U yt-dlp
    **Or via terminal / command line** (more reliable):
    ```bash
    cd path\to\folder\yt_downloader.py
+</details>
 
-## ⚠️ Disclaimer / Liability Disclaimer
+
+### ⚠️ Disclaimer / Liability Disclaimer
 
 **This software is intended solely for educational purposes, testing, and personal use, as long as it is legal and permitted by the copyright holder.**
 Downloading YouTube videos using this software **violates YouTube's Terms of Service**.  
