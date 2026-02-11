@@ -42,9 +42,8 @@ Installation
 - pip
 - git
 
-### Установка / обновление yt-dlp (рекомендуется)
+### Installing / updating yt-dlp (recommended)
 ```markdown
-```bash
 python -m pip install --user -U yt-dlp
 ```
 
