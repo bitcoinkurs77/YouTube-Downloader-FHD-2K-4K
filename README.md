@@ -38,7 +38,9 @@ Running from source requires minimal experience with:
 <details>
 <summary>▶ Click to see the process</summary>
 Installation
-1. Set up Your Platform
+
+   1. Set up Your Platform
+
 - Python (3.12 recommended)
 - pip
 - git
