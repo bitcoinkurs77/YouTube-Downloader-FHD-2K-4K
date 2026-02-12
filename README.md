@@ -1,4 +1,4 @@
-# YT-Downloader-FHD-2K-4K
+# YT Downloader (FHD/2K/4K)
 **The easiest and fastest video downloader from YouTube**🎬  
 Insert the link → select the quality → click "Download". All in a couple of clicks.
 
